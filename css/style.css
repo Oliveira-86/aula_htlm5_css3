@@ -1,0 +1,25 @@
+body{
+    background: rgb(241, 175, 175) ;
+    margin-right: 70px;
+}
+h2 {
+    color: rgb(3, 129, 45);
+}
+
+nav {
+    color: seashell;
+}
+
+section{
+    color: slateblue;
+    margin-right: 300px;
+}
+
+p{
+    color: rgb(2, 32, 17);
+}
+
+head{
+
+    margin-right: 70px;
+}
